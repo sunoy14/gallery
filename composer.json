@@ -1,0 +1,21 @@
+{
+    "name": "sunoy14/gallery",
+    "description": "Gallery for website",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Millo Lailang",
+            "email": "sunoy14socmed@gmail.com"
+        }
+    ],
+    "require": 
+    {
+        "sunoy14/js-lib": "dev-master"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sunoy14/js-lib"
+        }
+    ]
+}

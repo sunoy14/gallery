@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "f5e25e18c135e7a5e4313333c1d0f1fa",
+    "packages": [
+        {
+            "name": "sunoy14/js-lib",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sunoy14/js-lib.git",
+                "reference": "b9702b18cc56c9504e6a0cefa26b246807e6784b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sunoy14/js-lib/zipball/b9702b18cc56c9504e6a0cefa26b246807e6784b",
+                "reference": "b9702b18cc56c9504e6a0cefa26b246807e6784b",
+                "shasum": ""
+            },
+            "type": "library",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Millo Lailang",
+                    "email": "sunoy14socmed@gmail.com"
+                }
+            ],
+            "description": "My javascript library",
+            "support": {
+                "source": "https://github.com/sunoy14/js-lib/tree/master",
+                "issues": "https://github.com/sunoy14/js-lib/issues"
+            },
+            "time": "2020-03-31T17:22:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "sunoy14/js-lib": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
